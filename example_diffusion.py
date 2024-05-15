@@ -22,7 +22,7 @@ if __name__ == '__main__':
              label="running loss")
     plt.title("Loss Function Over Training Unconditional")
     plt.xlabel("Epochs")
-    plt.ylabel("Loss")  # todo uncover
+    plt.ylabel("Loss")
     plt.show()
 
     T = 1000
